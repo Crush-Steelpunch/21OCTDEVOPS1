@@ -1,5 +1,8 @@
 # LOOPS
 
+# While loop if don't know how many iterations
+# For loop if you do know how many iterations
+
 # While loop
 
 #test1 = x
